@@ -1,6 +1,6 @@
 baseURL = "https://vankhoa1411.github.io/2280601535_NguyenTranVanKhoa_workshopaws/"
 relativeURLs = true
-canonifyURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
